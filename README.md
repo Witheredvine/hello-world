@@ -1,2 +1,3 @@
-# hello-world
-just want to share something
+＃你好，世界
+想学一些东西
+想分享一些东西
